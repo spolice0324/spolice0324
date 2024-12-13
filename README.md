@@ -5,10 +5,10 @@
 
 프론트엔드 개발과 테스트 자동화에 관심이 많습니다 🚀
 
-### 🧊 Work
-- [Viva Republica(Toss Payments)](https://www.tosspayments.com/) | Test Automation Team Assistant ( 2024.10 ~ ing )
-- [LabradorLabs](https://labradorlabs.ai/?lang=ko) | Frontend Developer Internship ( 2024.07 - 2024.10 )
-- [Suprema ID](https://www.xperix.com/en/contents/index.php) | Software QA Internship ( 2023.01 - 2023.02 )
+### 🧡 Work
+- [Hanhwa Vision](https://www.hanwhavision.com/ko/) | Software Engineer 
+- [Viva Republica(Toss Payments)](https://www.tosspayments.com/) | Test Automation Team Assistant ( 2024.10 ~ 12 )
+
 
 <br/> 
 
