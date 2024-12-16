@@ -7,7 +7,7 @@
 
 ### 🧡 Work
 - [Hanhwa Vision](https://www.hanwhavision.com/ko/) ( 2025.1 ~ )
-- [Viva Republica(Toss Payments)](https://www.tosspayments.com/) | Internship ( 2024.10 ~ 12 )
+- [Viva Republica(Toss Payments)](https://www.tosspayments.com/) | Internship ( 2024.10 ~ 2024.12 )
   - Test Automation Team Assistant
 
 
