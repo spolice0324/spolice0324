@@ -6,7 +6,7 @@
 프론트엔드 개발과 테스트 자동화에 관심이 많습니다 🚀
 
 ### 🧡 Work
-- [Hanhwa Vision](https://www.hanwhavision.com/ko/) ( 2025.1 ~ )
+- [Hanwha Vision](https://www.hanwhavision.com/ko/) ( 2025.1 ~ )
 - [Viva Republica(Toss Payments)](https://www.tosspayments.com/) | Internship ( 2024.10 ~ 2024.12 )
   - Test Automation Team Assistant
 
